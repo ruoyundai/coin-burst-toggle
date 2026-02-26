@@ -1,0 +1,5 @@
+{
+  "name": "Coin Burst Toggle",
+  "description": "A toggle switch that bursts with coins when activated and automatically resets.",
+  "requestFramePermissions": []
+}
